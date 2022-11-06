@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Qurat-ul-Ain-Dev
+- 👋 Hi, I’m @Quratulain-coder
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Full-Stack Development.
 <!---
